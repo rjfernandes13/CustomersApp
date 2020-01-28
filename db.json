@@ -1,0 +1,24 @@
+{
+  "customers": [
+    { "dni": "123", "name": "Ricardo Fernandes", "age": 24 },
+    { "dni": "124", "name": "Diana Fernandes", "age": 25 },
+    { "dni": "125", "name": "Jose Fernandes", "age": 26 }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

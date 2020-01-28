@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: url("logo1.png");
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.app-frame {
+  margin: 5%;
+  padding: 30px;
+  width: calc(80vw);
+  background-image: -webkit-linear-gradient(top, #27656d, #e2e2e2);
+}
+
+.customers-actions {
+  background: #aaa;
+  padding: 10px;
+  margin: 10px;
+}
+
+.customers-actions button {
+  background: white;
+  min-width: 100px;
+  height: 30px;
+  margin: 5px;
+}
+
+.customer-list-item .field {
+  width: 160px;
+  margin: 1px;
+  padding: 4px;
+  background: #eee;
+  display: inline-block;
+}
